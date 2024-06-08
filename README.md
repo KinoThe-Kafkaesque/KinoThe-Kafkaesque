@@ -17,3 +17,21 @@
         background-size: contain;
         ]{x0000}$}
 ```
+
+```math
+\ce{$\unicode[
+        goombafont;         
+        color: red;
+        pointer-events: none;
+        z-index: -90;
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        height: 200px;
+        object-fit: fill;
+        width: 200px;
+        opacity: 1;
+        background: url('https://raw.githubusercontent.com/KinoThe-Kafkaesque/KinoThe-Kafkaesque/main/nero.gif') no-repeat 10% 10%; 
+        background-size: contain;
+        ]{x0000}$}
+```
