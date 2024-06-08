@@ -35,3 +35,22 @@
         background-size: contain;
         ]{x0000}$}
 ```
+
+```math
+\ce{$\unicode[
+        goombafont;         
+        color: red;
+        pointer-events: none;
+        z-index: 10;
+        position: fixed;
+        top: 20vh;
+        left: 0;
+        height: 60vh;
+        object-fit: fill;
+        width: 100vw;
+        opacity: 0.5;
+        opacity: 1;
+        background: url('https://raw.githubusercontent.com/KinoThe-Kafkaesque/KinoThe-Kafkaesque/main/shiki.png') no-repeat center center; 
+        background-size: contain;
+        ]{x0000}$}
+```
