@@ -22,7 +22,7 @@
         goombafont;         
         color: red;
         pointer-events: none;
-        z-index: -90;
+        z-index: -9;
         position: fixed;
         bottom: 0;
         right: 0;
@@ -46,7 +46,7 @@
         left: 0;
         height: 60vh;
         object-fit: fill;
-        width: 100vw;
+        width: 20vw;
         opacity: 0.5;
         opacity: 1;
         background: url('https://raw.githubusercontent.com/KinoThe-Kafkaesque/KinoThe-Kafkaesque/main/shiki.png') no-repeat center center; 
