@@ -13,8 +13,7 @@
         object-fit: fill;
         width: 100vw;
         opacity: 0.5;
-        background: url('https://raw.githubusercontent.com/KinoThe-Kafkaesque/KinoThe-Kafkaesque/main/shiki.gif') no-repeat center center; 
-        background-size: contain;
+        background: url('https://raw.githubusercontent.com/KinoThe-Kafkaesque/KinoThe-Kafkaesque/main/shiki.gif');
         ]{x0000}$}
 ```
 
